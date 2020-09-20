@@ -7,16 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@ethersproject/bignumber": "^5.0.5",
-    "@nomiclabs/buidler": "^1.4.3",
+    "@ethersproject/bignumber": "^5.0.7",
+    "@nomiclabs/buidler": "^1.4.7",
     "@nomiclabs/buidler-ethers": "^2.0.0",
-    "@nomiclabs/buidler-waffle": "^2.0.0",
+    "@nomiclabs/buidler-waffle": "^2.1.0",
     "chai": "^4.2.0",
     "dotenv": "^8.2.0",
     "ethereum-waffle": "^3.0.2",
-    "ethers": "^5.0.8",
-    "prettier": "^2.0.5",
-    "prettier-plugin-solidity": "^1.0.0-alpha.55"
+    "ethers": "^5.0.14",
+    "prettier": "^2.1.2",
+    "prettier-plugin-solidity": "^1.0.0-alpha.57"
   },
   "dependencies": {
     "solc": "^0.7.1"
